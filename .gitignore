@@ -1,4 +1,0 @@
-# OPIXray images/labels are large (~2.5 GB). GitHub rejects huge pushes (HTTP 500).
-# Keep data only on disk / Google Drive; clone from the official repo if needed.
-train/
-test/
